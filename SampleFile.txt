@@ -1,0 +1,5 @@
+<appSettings>
+<add key="aws_secret" value="ABCDEF+c2L7yXeGvUyrPgYsDnWRRC1AYEXAMPLE">
+<add key="django_password" value="test">
+<add key="database_name" value="user">
+</appSettings>
